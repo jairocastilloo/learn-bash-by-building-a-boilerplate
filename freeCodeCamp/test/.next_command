@@ -66,3 +66,5 @@ cd ..
 ls --color=auto
 more package.json
 clear
+__vsc_prompt_cmd_original
+ls --color=auto
