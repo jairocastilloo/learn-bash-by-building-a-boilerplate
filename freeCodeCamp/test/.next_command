@@ -130,3 +130,5 @@ rm background.jpg
 ls --color=auto
 touch header.png images
 cp header.png images
+cp footer.jpeg iamges
+cp footer.jpeg images
