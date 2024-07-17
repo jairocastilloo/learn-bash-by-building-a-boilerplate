@@ -61,3 +61,4 @@ ls --color=auto
 cd test
 pwe
 pwd
+ls --color=auto
