@@ -135,3 +135,4 @@ cp footer.jpeg images
 rm iamges
 cd images
 ls --color=auto
+cd ..
