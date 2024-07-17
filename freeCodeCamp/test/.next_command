@@ -239,3 +239,4 @@ ls --color=auto
 find toms-website
 find
 find website-boilerplate
+clear
