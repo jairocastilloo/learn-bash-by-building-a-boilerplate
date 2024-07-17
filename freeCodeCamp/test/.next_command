@@ -197,3 +197,12 @@ mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
 find
 mkdir client/assets/fonts
+__vsc_prompt_cmd_original
+touch client/assets/fonts/robonto-bold.woff
+rm client/assets/fonts/robonto-bold.woff
+touch roboto-bold.woff client/assets/fonts
+rm client/assets/fonts/robonto-bold.woff
+rm roboto-bold.woff
+exit
+cd website
+touch client/assets/fonts/roboto-bold.woff
