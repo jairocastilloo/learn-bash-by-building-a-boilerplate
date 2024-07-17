@@ -206,3 +206,4 @@ rm roboto-bold.woff
 exit
 cd website
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff
